@@ -86,11 +86,11 @@
 								<tr>
 									<td>
 										<label>City:-</label>
-										<input type="text" name="city" value="Ahmedabad"   autocomplete="off" readonly>
+										<input type="text" name="city" value="Tamil Nadu"   autocomplete="off" readonly>
 									</td>
 									<td>
 										<label>State:-</label>
-										<input type="text" name="state" value="Gujarat"   autocomplete="off" readonly>
+										<input type="text" name="state" value="Vellore"   autocomplete="off" readonly>
 									</td>
 								</tr>
 							</table>
@@ -134,7 +134,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required  autocomplete="off">
-						</span><p>I agree to have my contact details broadcasted to the registered donors of B24U.net</p>
+						</span><p>I agree to have my contact details broadcasted to the registered donors of BloodVault.net</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit">
@@ -209,7 +209,7 @@
 						<tr>
 							<td>
 								<label>City:-</label>
-								<input type="text" name="city" value="Ahmedabad" readonly>
+								<input type="text" name="city" value="Tamil Nadu" readonly>
 							</td>
 						</tr>
 						<tr>
@@ -265,7 +265,7 @@
 
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required >
-				</span><p>I agree to have my contact details broadcasted to the registered donors of B24U.net</p>
+				</span><p>I agree to have my contact details broadcasted to the registered donors of BloodVault.net</p>
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit">
 					<input type="reset" name="submit" value="Reset">

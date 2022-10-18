@@ -163,24 +163,6 @@
 	}
 	setInterval(function(){plusSlides(1);},5000);
 	
-const endpoint = 'https://api.whatdoestrumpthink.com/api/v1/quotes/random';
-	getQuote();
-	setInterval(getQuote,9000);
-function getQuote() {
-  fetch(endpoint)
-    .then(function (response) {
-      return response.json();
-    })
-    .then(function (data) {
-      displayQuote(data.message);
-    })
-    .catch(function () {
-      console.log("An error occurred");
-    });
-}
-function displayQuote(quote) {
-  const quoteText = document.querySelector('.quote-text');
-  quoteText.textContent = quote;
-}
+
 </script>
 </html>

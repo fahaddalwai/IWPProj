@@ -110,7 +110,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required>
-						</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+						</span><p>I agree to have my contact details broadcasted to the BloodVault.net</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit Request">
@@ -212,7 +212,7 @@
 
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required>
-				</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+				</span><p>I agree to have my contact details broadcasted to the BloodVault.net</p>
 				
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit Request">

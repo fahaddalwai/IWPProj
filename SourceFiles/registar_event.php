@@ -97,7 +97,7 @@
 								<tr>
 									<td>
 										<label>City:-</label>
-										<input type="text" name="city" value="Ahmedabad" readonly>
+										<input type="text" name="city" value="Vellore" readonly>
 									</td>
 									<td>
 										<label>State:-</label>
@@ -134,7 +134,7 @@
 						</div>
 						<span>
 							<input type="checkbox" name="terms" id="checkbox" required>
-						</span><p>I agree to have my contact details broadcasted to the of B24U.net</p>
+						</span><p>I agree to have my contact details broadcasted to the of BloodVault.net</p>
 						
 						<div class="btn">
 							<input type="submit" name="submit" value="Submit Details ">
@@ -254,7 +254,7 @@
 				</div>
 				<span>
 					<input type="checkbox" name="terms" id="checkbox" required>
-				</span><p>I agree to have my contact details broadcasted to the B24U.net</p>
+				</span><p>I agree to have my contact details broadcasted to the BloodVault.net</p>
 				
 				<div class="btn">
 					<input type="submit" name="submit" value="Submit Details ">

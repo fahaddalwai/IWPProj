@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
   <title></title>
@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body >
-
     <div class="header fix">
       <img src="Image\logo.png">
       <form>
@@ -48,23 +47,11 @@
     </div>
     <div class="eventobox">
       
-
     <div class="heading fix">	
 			<label>Home</label>
 		</div>
 		<div class="slideshow" onmouseover="arrowshow()" onmouseout="arrowhide()">
-			<div class="mySlides fade">
-				<img src="https://www.nysenate.gov/sites/default/files/styles/760x377/public/donate_blood_rotator.jpg?itok=SKSv3T7P&timestamp=1444009944">
-			</div>
-			<div class="mySlides fade">
-  				<img src="https://www.sentinelassam.com/wp-content/uploads/2019/06/iStock-690302872.jpg">
-			</div>
-			<div class="mySlides fade">
-				<img src="http://healthstaff.co.za/wp-content/uploads/2018/06/World-Blood-Donor-Day-Quotes-Slogans-Sayings-Images-Whatsapp-Status-FB-DP.jpg">
-			</div>
-			<div class="mySlides fade">
-  				<img src="https://sgc.edu.in/wp-content/uploads/2017/04/BDC.jpg">
-			</div>
+			
 			<div class="arrow" id="a1">
 				<i class="fa fa-chevron-left" aria-hidden="true" onclick="plusSlides(-1)" ></i>
 				<i class="fa fa-chevron-right" aria-hidden="true" onclick="plusSlides(1)" ></i>
@@ -138,15 +125,11 @@
 				<h4>Contribute</h4>
 				<a href="contribute.php"><button>Show details</button></a>
 			</div>
-
-
-
 		</div>
 		
   </body>
   
 <script type="text/javascript">
-
 	function share()
 		{
 			var a =document.getElementById("f");
@@ -214,25 +197,8 @@
 	}
 	setInterval(function(){plusSlides(1);},5000);
 	
-const endpoint = 'https://api.whatdoestrumpthink.com/api/v1/quotes/random';
-	getQuote();
-	setInterval(getQuote,9000);
-function getQuote() {
-  fetch(endpoint)
-    .then(function (response) {
-      return response.json();
-    })
-    .then(function (data) {
-      displayQuote(data.message);
-    })
-    .catch(function () {
-      console.log("An error occurred");
-    });
-}
-function displayQuote(quote) {
-  const quoteText = document.querySelector('.quote-text');
-  quoteText.textContent = quote;
-}
+
+
 
   function share()
   {

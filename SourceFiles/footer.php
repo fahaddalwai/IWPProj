@@ -14,7 +14,7 @@
 			<i class="fa fa-envelope" aria-hidden="true"></i>
 		</div>
 		<div class="footer">
-  			<h3>Copyrights 2019. B24U</h3><h3>Powered By  <a href="https://www.geeksforgeeks.org/" target="_blank">Sirs Fav Students</a></h3>
+  			<h3>Copyrights 2021. BloodVault</h3><h3>Powered By  <a href="https://www.geeksforgeeks.org/" target="_blank">Sirs Fav Students</a></h3>
 			<div class="scircle scircle1">
 				<a href="https://www.geeksforgeeks.org/" target="blank"><i class="fa fa-facebook fa-lg" aria-hidden="true" ></i></a>
 			</div>
